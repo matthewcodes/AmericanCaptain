@@ -1,0 +1,41 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "Matthew Wilson",
+    "longName": "American Captain",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/shield-top.png",
+                "name": "SHIELD_TOP",
+                "type": "png"
+            },
+            {
+                "file": "images/shield-bottom.png",
+                "name": "SHIELD_BOTTOM",
+                "type": "png"
+            },
+            {
+                "file": "images/shield.png",
+                "name": "SHIELD",
+                "type": "png"
+            },
+            {
+                "file": "fonts/American Captain.ttf",
+                "name": "AMERICAN_CAPTAIN_46",
+                "type": "font"
+            }
+        ]
+    },
+    "sdkVersion": "2",
+    "shortName": "American Capt.",
+    "uuid": "45a82e73-f6e7-4187-8a1b-007610ad2b5a",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
